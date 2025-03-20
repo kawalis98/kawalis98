@@ -3,14 +3,7 @@
 
 🚀 About Me
 👀 Interested in front-end & back-end development
-🌱 Currently learning React, Node.js, and database management
-💞️ Open to collaborating on web and app development projects
+🌱 Currently learning React, Node.js, database management, FiveM, and Lua
+💞️ Open to collaborating on web, app, and game development projects
 📫 Reach me at [kawalis980@gmail.com]
-⚡ Fun fact: I enjoy coding challenges and exploring new design trends!
-🔧 Tech Stack
-
-
-
-
-
-📈 GitHub Stats
+⚡ Fun fact: I enjoy coding challenges, modding FiveM, and exploring new design trends!
